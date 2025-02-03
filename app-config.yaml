@@ -1,0 +1,9 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: app-config
+  namespace: jachimike
+data:
+  APP_NAME: bludive_app
+  APP_ENV: production
+
