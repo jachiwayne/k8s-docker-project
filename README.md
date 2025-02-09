@@ -122,7 +122,7 @@ For development and testing, the services are configured using NodePort. However
 
 - All code changes and deployment updates are tracked using **Git**.
 - Rollout history is documented in `jachimike-rollout-history.txt`.
-- Repository hosted on [GitHub](https://github.com/your-username/k8s-and-docker-project).
+- Repository hosted on [GitHub](https://github.com/jachiwayne/k8s-and-docker-project).
 
 ---
 
@@ -141,5 +141,5 @@ This project is open for public use and does not have a specific license attache
 ---
 
 **Author:** Jachimike  
-**LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+**LinkedIn:** www.linkedin.com/in/jachimike-onwuchekwa-61029017b
 
